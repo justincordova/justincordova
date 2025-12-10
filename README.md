@@ -36,5 +36,5 @@ I like food.
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@justinavodroc)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/justinalolorcordova/)
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,python,cs,c,dotnet,react,nodejs,nextjs,express,html,css,bash,git,docker,postgresql,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,cs,python,c,dotnet,react,nodejs,nextjs,express,html,css,bash,git,docker,postgresql,mysql)](https://skillicons.dev)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
