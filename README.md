@@ -21,20 +21,14 @@ I'm [**Justin**](https://justincordova.pages.dev/), i'm from Stewartsville, New 
 
 My interests fall under **full-stack development** and **backend engineering**. 
 
-Currently i'm pursing a BSCS [**@NJIT**] . 
-I'm a SDE Intern [**@PureTechInc**] .
-<img src="https://emojis.slackmojis.com/emojis/images/1687735546/66769/smart.gif?1687735546" width="25"/>
+CS **@NJIT**. 
 
-Also i'm looking for any internship oppurtunities to develop career related skills.
+SDE Intern **@PureTechInc**.
 
 <br/>
-I like food. 
-<img src="https://emojis.slackmojis.com/emojis/images/1729830647/102659/smellingyouq.gif?1729830647" width="25"/>
+<img src="https://emojis.slackmojis.com/emojis/images/1729830647/102659/smellingyouq.gif?1729830647" width="100"/>
 <br/>
 
-#### 📌
-
-[<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@justinavodroc)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/justinalolorcordova/)
 
 ## Technical Skills
