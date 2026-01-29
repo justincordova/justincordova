@@ -22,6 +22,7 @@ I'm [**Justin**](https://justincordova.pages.dev/), i'm from Stewartsville, New 
 My interests fall under **full-stack development** and **backend engineering**. 
 
 Currently i'm pursing a BSCS [**@NJIT**] . 
+I'm a SDE Intern [**@PureTechInc**] .
 <img src="https://emojis.slackmojis.com/emojis/images/1687735546/66769/smart.gif?1687735546" width="25"/>
 
 Also i'm looking for any internship oppurtunities to develop career related skills.
