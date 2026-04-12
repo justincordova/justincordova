@@ -39,7 +39,7 @@ SDE Intern **@PureTechInc**.
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) 
 [![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) 
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) 
-[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)  
+[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)  
 
 **Databases:**  
